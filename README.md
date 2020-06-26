@@ -1,4 +1,4 @@
-#**Clipboard actions with Firebase**
+# **Clipboard actions with Firebase**
 
 
 ![Screenshot_20200626_221130](https://user-images.githubusercontent.com/58139175/85881068-ae2b4600-b7fa-11ea-866e-2980b3f591ba.jpg)
